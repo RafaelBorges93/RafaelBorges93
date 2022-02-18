@@ -1,4 +1,4 @@
-## Hi, my name is Rafael Borges! 👋 ![visitantes](https://visitor-badge.laobi.icu/badge?page_id=RafaelBorges93)
+## Hi, my name is Rafael Borges! 👋            ![visitantes](https://visitor-badge.laobi.icu/badge?page_id=RafaelBorges93)
   
  <img src="https://user-images.githubusercontent.com/88861319/154737964-982ccf17-5102-4318-a2f6-c0fa322fba8a.png" width="400" align="right" alt="Computador RafaelBorges93">
 
