@@ -2,8 +2,8 @@
   
  <img src="https://user-images.githubusercontent.com/88861319/154737964-982ccf17-5102-4318-a2f6-c0fa322fba8a.png" width="400" align="right" alt="Computador RafaelBorges93">
 
-  💬 Programming student with a focus on the area of <strong>Front-end</strong>. <br/>
-  🎯 I am currently seeking a career transition to programming! <br/>
+ 💬 Programming student focused on web development technologies such as JavaScript, HTML, CSS, ReactJS. </br>
+ 🎯 I am currently seeking a career transition to web development! </br>
   </p>
 
 ## My Skills 🚀
