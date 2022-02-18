@@ -1,12 +1,12 @@
-## Olá, meu nome é Rafael! 👋 <p align="right">![visitantes](https://visitor-badge.laobi.icu/badge?page_id=RafaelBorges93)
+## Hi, my name is Rafael Borges! 👋 <p align="right">![visitantes](https://visitor-badge.laobi.icu/badge?page_id=RafaelBorges93)
   
  <img src="https://user-images.githubusercontent.com/88861319/154737964-982ccf17-5102-4318-a2f6-c0fa322fba8a.png" width="400" align="right" alt="Computador RafaelBorges93">
 
-  💬 Estudande de programação com foco na área de <strong>Front-end</strong>. <br/>
-  🎯 Atualmente estou buscando uma transição de carreira para a programação! <br/>
+  💬 Programming student with a focus on the area of <strong>Front-end</strong>. <br/>
+  🎯 I am currently seeking a career transition to programming! <br/>
   </p>
 
-## Minhas Skills 🚀
+## My Skills 🚀
 <div style="display: inline-block" >
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -20,7 +20,7 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" />
 </div>
 
-## Meus Contatos 📱
+## My Contats 📱
 
 <p align="center">
   <a href="https://www.facebook.com/rafael.dealmeidaborges">
