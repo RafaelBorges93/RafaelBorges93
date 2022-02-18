@@ -1,4 +1,4 @@
-## Hi, my name is Rafael Borges! 👋 <p align="right">![visitantes](https://visitor-badge.laobi.icu/badge?page_id=RafaelBorges93)
+## Hi, my name is Rafael Borges! 👋 ![visitantes](https://visitor-badge.laobi.icu/badge?page_id=RafaelBorges93)
   
  <img src="https://user-images.githubusercontent.com/88861319/154737964-982ccf17-5102-4318-a2f6-c0fa322fba8a.png" width="400" align="right" alt="Computador RafaelBorges93">
 
@@ -22,7 +22,7 @@
 
 ## My Contats 📱
 
-<p align="center">
+<p align="left">
   <a href="https://www.facebook.com/rafael.dealmeidaborges">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
